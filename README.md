@@ -134,6 +134,9 @@ flowchart LR
 <div align="center">
 
 [![Contact](https://img.shields.io/badge/Contact_me-hytris.net-FF2E88?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hytris.net)
+[![Email](https://img.shields.io/badge/kevin%40hytris.net-0B1018?style=for-the-badge&logo=gmail&logoColor=19E3FF)](mailto:kevin@hytris.net)
+
+`kevin@hytris.net`
 
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:19E3FF,50:FF2E88,100:06080C" width="100%" alt="">
 
