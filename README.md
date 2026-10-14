@@ -4,7 +4,7 @@
 
 [![hytris.net](https://img.shields.io/badge/hytris.net-visit_the_agency-FF2E88?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hytris.net)
 [![Portfolio](https://img.shields.io/badge/portfolio-euroshima.github.io-19E3FF?style=for-the-badge&logo=github&logoColor=06080C)](https://euroshima.github.io)
-[![Montreal](https://img.shields.io/badge/Montreal-QC-0B1018?style=for-the-badge&logo=googlemaps&logoColor=19E3FF)](https://github.com/Euroshima)
+[![Auxerre](https://img.shields.io/badge/Auxerre-France-0B1018?style=for-the-badge&logo=googlemaps&logoColor=19E3FF)](https://github.com/Euroshima)
 
 <sub>`CUSTOM WEBSITES` ✦ `UX DESIGN` ✦ `DEVELOPMENT` ✦ `SEO` ✦ `PERFORMANCE` ✦ `E-COMMERCE` ✦ `SECURITY` ✦ `WEB APPS`</sub>
 
@@ -14,12 +14,12 @@
 
 ```text
 ┌──────────────────────────────────────────────────────────┐
-│  kevin@montreal:~$ cat profile.txt                       │
+│  kevin@auxerre:~$ cat profile.txt                        │
 │                                                          │
 │  name      Kevin (Euroshima)                             │
 │  role      Full-stack developer                          │
 │  agency    Hytris  →  https://hytris.net                 │
-│  city      Montreal, QC                                  │
+│  city      Auxerre, France                               │
 │  status    ● available for new projects                  │
 └──────────────────────────────────────────────────────────┘
 ```
