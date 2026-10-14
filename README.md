@@ -1,77 +1,126 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=3200&pause=900&color=19E3FF&center=true&vCenter=true&width=700&height=70&lines=KEVIN+%C2%B7+EUROSHIMA;D%C3%A9veloppeur+full-stack;Fondateur+de+Hytris+%E2%80%94+hytris.net;Montr%C3%A9al%2C+QC" alt="Kevin · Euroshima">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:06080C,50:FF2E88,100:19E3FF&text=KEVIN%20%C2%B7%20EUROSHIMA&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=D%C3%A9veloppeur%20full-stack%20%C2%B7%20Fondateur%20de%20Hytris&descAlignY=58&descSize=18&animation=fadeIn" alt="Kevin · Euroshima" width="100%">
 
-<br>
-
-[![hytris.net](https://img.shields.io/badge/hytris.net-visiter-FF2E88?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hytris.net)
-[![Portfolio](https://img.shields.io/badge/Portfolio-euroshima.github.io-19E3FF?style=for-the-badge&logo=github&logoColor=06080C)](https://euroshima.github.io)
+[![hytris.net](https://img.shields.io/badge/hytris.net-visiter_l'agence-FF2E88?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hytris.net)
+[![Portfolio](https://img.shields.io/badge/portfolio-euroshima.github.io-19E3FF?style=for-the-badge&logo=github&logoColor=06080C)](https://euroshima.github.io)
 [![Montréal](https://img.shields.io/badge/Montr%C3%A9al-QC-0B1018?style=for-the-badge&logo=googlemaps&logoColor=19E3FF)](https://github.com/Euroshima)
+
+<sub>`SITES SUR MESURE` ✦ `UX DESIGN` ✦ `DÉVELOPPEMENT` ✦ `SEO` ✦ `PERFORMANCE` ✦ `E-COMMERCE` ✦ `APPLICATIONS WEB`</sub>
 
 </div>
 
----
+<br>
 
 ```text
-$ whoami
-kevin@montreal:~$ cat profile.txt
-
-  nom        Kevin (Euroshima)
-  rôle       Développeur full-stack & homelab
-  agence     Hytris — https://hytris.net
-  ville      Montréal, QC
-  focus      sites sur mesure · UX · SEO · performance · e-commerce
+┌──────────────────────────────────────────────────────────┐
+│  kevin@montreal:~$ cat profile.txt                       │
+│                                                          │
+│  nom       Kevin (Euroshima)                             │
+│  rôle      Développeur full-stack & homelab              │
+│  agence    Hytris  →  https://hytris.net                 │
+│  ville     Montréal, QC                                  │
+│  statut    ● disponible pour de nouveaux projets         │
+└──────────────────────────────────────────────────────────┘
 ```
 
-## 🏢 Hytris
+<br>
 
-**[Hytris](https://hytris.net)** est mon agence web. Je crée des **sites internet sur mesure** pour les entreprises, les particuliers, les mairies, les associations, les collectivités et les indépendants.
+## 🏢 Hytris, mon agence web
 
-| | |
-|---|---|
-| **Sites sur mesure** | Conçus pour votre activité, sans modèle générique |
-| **UX design & développement** | Interfaces claires, code propre |
-| **SEO & performance** | Visibilité et vitesse de chargement |
-| **E-commerce & applications web** | Boutiques en ligne et outils métier |
+> **[Hytris](https://hytris.net)** crée des **sites internet sur mesure** pour les entreprises, les particuliers, les mairies, les associations, les collectivités et les indépendants.
+
+<table>
+<tr>
+<td width="25%" valign="top">
+
+### 🎯 Sur mesure
+Conçu pour votre activité, sans modèle générique.
+
+</td>
+<td width="25%" valign="top">
+
+### 🎨 UX design
+Des interfaces claires, pensées pour vos visiteurs.
+
+</td>
+<td width="25%" valign="top">
+
+### 🚀 SEO & perf
+Visibilité sur Google et chargement rapide.
+
+</td>
+<td width="25%" valign="top">
+
+### 🛒 E-commerce
+Boutiques en ligne et applications web.
+
+</td>
+</tr>
+</table>
+
+```mermaid
+flowchart LR
+    A([💡 Votre idée]) --> B[🎨 Maquette UX]
+    B --> C[⌨️ Développement]
+    C --> D[🚀 SEO & performance]
+    D --> E([🌍 Mise en ligne])
+    style A fill:#0B1018,stroke:#19E3FF,color:#fff
+    style B fill:#0B1018,stroke:#FF2E88,color:#fff
+    style C fill:#0B1018,stroke:#19E3FF,color:#fff
+    style D fill:#0B1018,stroke:#FF2E88,color:#fff
+    style E fill:#0B1018,stroke:#19E3FF,color:#fff
+```
+
+<div align="center">
+
+### [👉 Découvrir hytris.net](https://hytris.net)
+
+</div>
+
+<br>
 
 ## ⚡ Stack
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-0B1018?style=flat-square&logo=python&logoColor=4B8BBE)
-![TypeScript](https://img.shields.io/badge/TypeScript-0B1018?style=flat-square&logo=typescript&logoColor=3178C6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0B1018?style=flat-square&logo=javascript&logoColor=F1E05A)
-![C++](https://img.shields.io/badge/C++-0B1018?style=flat-square&logo=cplusplus&logoColor=F34B7D)
-![HTML5](https://img.shields.io/badge/HTML5-0B1018?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0B1018?style=flat-square&logo=css3&logoColor=1572B6)
+**Langages**<br>
+![Python](https://img.shields.io/badge/Python-0B1018?style=for-the-badge&logo=python&logoColor=4B8BBE)
+![TypeScript](https://img.shields.io/badge/TypeScript-0B1018?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0B1018?style=for-the-badge&logo=javascript&logoColor=F1E05A)
+![C++](https://img.shields.io/badge/C++-0B1018?style=for-the-badge&logo=cplusplus&logoColor=F34B7D)
+![HTML5](https://img.shields.io/badge/HTML5-0B1018?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0B1018?style=for-the-badge&logo=css3&logoColor=1572B6)
 
-![React](https://img.shields.io/badge/React-0B1018?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-0B1018?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-0B1018?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
-![Tailwind](https://img.shields.io/badge/Tailwind-0B1018?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
+**Web / Front**<br>
+![React](https://img.shields.io/badge/React-0B1018?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0B1018?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-0B1018?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
+![Tailwind](https://img.shields.io/badge/Tailwind-0B1018?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
+![Vite](https://img.shields.io/badge/Vite-0B1018?style=for-the-badge&logo=vite&logoColor=FF2E88)
 
-![Linux](https://img.shields.io/badge/Linux-0B1018?style=flat-square&logo=linux&logoColor=FCC624)
-![Docker](https://img.shields.io/badge/Docker-0B1018?style=flat-square&logo=docker&logoColor=2496ED)
-![Git](https://img.shields.io/badge/Git-0B1018?style=flat-square&logo=git&logoColor=F05032)
-![ESP32](https://img.shields.io/badge/ESP32-0B1018?style=flat-square&logo=espressif&logoColor=E7352C)
-
-</div>
-
-## 📊 GitHub
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Euroshima&show_icons=true&theme=tokyonight&hide_border=true&bg_color=06080C&title_color=19E3FF&icon_color=FF2E88&count_private=true)
-![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Euroshima&layout=compact&theme=tokyonight&hide_border=true&bg_color=06080C&title_color=19E3FF&hide=html,css)
+**Backend / DevOps**<br>
+![Linux](https://img.shields.io/badge/Linux-0B1018?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Docker](https://img.shields.io/badge/Docker-0B1018?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Git](https://img.shields.io/badge/Git-0B1018?style=for-the-badge&logo=git&logoColor=F05032)
+![ESP32](https://img.shields.io/badge/ESP32-0B1018?style=for-the-badge&logo=espressif&logoColor=E7352C)
 
 </div>
 
----
+<br>
+
+## 🧪 Homelab & objets connectés
+
+Je fais tourner mes propres services chez moi et je bricole des microcontrôleurs **ESP32** en C++. C'est mon terrain d'essai avant de livrer en production.
+
+<br>
+
+## 📬 Parlons de votre projet
 
 <div align="center">
 
-**[hytris.net](https://hytris.net)** · **[euroshima.github.io](https://euroshima.github.io)**
+[![Contact](https://img.shields.io/badge/Me_contacter-hytris.net-FF2E88?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hytris.net)
 
-*Un projet de site en tête ? Passez par hytris.net.*
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:19E3FF,50:FF2E88,100:06080C" width="100%" alt="">
 
 </div>
