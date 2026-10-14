@@ -97,12 +97,14 @@ flowchart LR
 ![C++](https://img.shields.io/badge/C++-0B1018?style=for-the-badge&logo=cplusplus&logoColor=F34B7D)
 ![C#](https://img.shields.io/badge/C%23-0B1018?style=for-the-badge&logo=csharp&logoColor=9B4F96)
 ![Lua](https://img.shields.io/badge/Lua-0B1018?style=for-the-badge&logo=lua&logoColor=2C2D72)
+![PHP](https://img.shields.io/badge/PHP-0B1018?style=for-the-badge&logo=php&logoColor=777BB4)
 ![HTML5](https://img.shields.io/badge/HTML5-0B1018?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-0B1018?style=for-the-badge&logo=css3&logoColor=1572B6)
 
 **Web / Front**<br>
 ![React](https://img.shields.io/badge/React-0B1018?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-0B1018?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-0B1018?style=for-the-badge&logo=symfony&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-0B1018?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
 ![Tailwind](https://img.shields.io/badge/Tailwind-0B1018?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
 ![Vite](https://img.shields.io/badge/Vite-0B1018?style=for-the-badge&logo=vite&logoColor=FF2E88)
@@ -110,6 +112,7 @@ flowchart LR
 **Backend / DevOps**<br>
 ![Linux](https://img.shields.io/badge/Linux-0B1018?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![Docker](https://img.shields.io/badge/Docker-0B1018?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0B1018?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
 ![Git](https://img.shields.io/badge/Git-0B1018?style=for-the-badge&logo=git&logoColor=F05032)
 
 **Security**<br>
