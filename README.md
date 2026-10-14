@@ -6,7 +6,7 @@
 [![Portfolio](https://img.shields.io/badge/portfolio-euroshima.github.io-19E3FF?style=for-the-badge&logo=github&logoColor=06080C)](https://euroshima.github.io)
 [![Montreal](https://img.shields.io/badge/Montreal-QC-0B1018?style=for-the-badge&logo=googlemaps&logoColor=19E3FF)](https://github.com/Euroshima)
 
-<sub>`CUSTOM WEBSITES` ✦ `UX DESIGN` ✦ `DEVELOPMENT` ✦ `SEO` ✦ `PERFORMANCE` ✦ `E-COMMERCE` ✦ `WEB APPS`</sub>
+<sub>`CUSTOM WEBSITES` ✦ `UX DESIGN` ✦ `DEVELOPMENT` ✦ `SEO` ✦ `PERFORMANCE` ✦ `E-COMMERCE` ✦ `SECURITY` ✦ `WEB APPS`</sub>
 
 </div>
 
@@ -32,28 +32,34 @@
 
 <table>
 <tr>
-<td width="25%" valign="top">
+<td width="20%" valign="top">
 
 ### 🎯 Custom-built
 Designed around your business, never a generic template.
 
 </td>
-<td width="25%" valign="top">
+<td width="20%" valign="top">
 
 ### 🎨 UX design
 Clear interfaces made for your visitors.
 
 </td>
-<td width="25%" valign="top">
+<td width="20%" valign="top">
 
 ### 🚀 SEO & speed
 Visibility on Google and fast loading.
 
 </td>
-<td width="25%" valign="top">
+<td width="20%" valign="top">
 
 ### 🛒 E-commerce
 Online stores and web applications.
+
+</td>
+<td width="20%" valign="top">
+
+### 🔒 Security
+HTTPS, WAF, hardening and security audits.
 
 </td>
 </tr>
@@ -63,7 +69,7 @@ Online stores and web applications.
 flowchart LR
     A([💡 Your idea]) --> B[🎨 UX mockup]
     B --> C[⌨️ Development]
-    C --> D[🚀 SEO & performance]
+    C --> D[🔒 Security & SEO]
     D --> E([🌍 Launch])
     style A fill:#0B1018,stroke:#19E3FF,color:#fff
     style B fill:#0B1018,stroke:#FF2E88,color:#fff
@@ -89,6 +95,8 @@ flowchart LR
 ![TypeScript](https://img.shields.io/badge/TypeScript-0B1018?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0B1018?style=for-the-badge&logo=javascript&logoColor=F1E05A)
 ![C++](https://img.shields.io/badge/C++-0B1018?style=for-the-badge&logo=cplusplus&logoColor=F34B7D)
+![C#](https://img.shields.io/badge/C%23-0B1018?style=for-the-badge&logo=csharp&logoColor=9B4F96)
+![Lua](https://img.shields.io/badge/Lua-0B1018?style=for-the-badge&logo=lua&logoColor=2C2D72)
 ![HTML5](https://img.shields.io/badge/HTML5-0B1018?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-0B1018?style=for-the-badge&logo=css3&logoColor=1572B6)
 
@@ -103,6 +111,16 @@ flowchart LR
 ![Linux](https://img.shields.io/badge/Linux-0B1018?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![Docker](https://img.shields.io/badge/Docker-0B1018?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![Git](https://img.shields.io/badge/Git-0B1018?style=for-the-badge&logo=git&logoColor=F05032)
+
+**Security**<br>
+![Cloudflare](https://img.shields.io/badge/Cloudflare-0B1018?style=for-the-badge&logo=cloudflare&logoColor=F38020)
+![Let's Encrypt](https://img.shields.io/badge/Let's_Encrypt-0B1018?style=for-the-badge&logo=letsencrypt&logoColor=19E3FF)
+![WAF](https://img.shields.io/badge/WAF-0B1018?style=for-the-badge&logo=shield&logoColor=FF2E88)
+![fail2ban](https://img.shields.io/badge/fail2ban-0B1018?style=for-the-badge&logo=linux&logoColor=FF2E88)
+![2FA](https://img.shields.io/badge/2FA-0B1018?style=for-the-badge&logo=authy&logoColor=EC1C24)
+![SSL/TLS](https://img.shields.io/badge/SSL%2FTLS-0B1018?style=for-the-badge&logo=letsencrypt&logoColor=7DFF9B)
+![Audits](https://img.shields.io/badge/Security_audits-0B1018?style=for-the-badge&logo=hackerone&logoColor=FFC53D)
+![Pentest](https://img.shields.io/badge/Penetration_testing-0B1018?style=for-the-badge&logo=kalilinux&logoColor=557C94)
 
 </div>
 
